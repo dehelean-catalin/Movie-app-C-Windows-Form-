@@ -1,0 +1,15 @@
+The Batman,Action,9,Good Movie
+The Dark Knight,Action,10,Great movie
+Fight Club,Action,10,Very good movie
+Se7en,Thriller,10,Great movie
+Get out,Horror,10,Good movie
+Spider-Man: Into the Spider-Verse,Animation,10,Good movie
+Joker,Action,9,Good movie
+Son of Saul,Horror,10,Good movie
+lal,Drama,9,ALS
+The Batman,Action,9,Very Good movie
+Inception,Thriller,10,Great movie
+The Dark Knight,Action,9,Great movie
+The Dark Knight,Action,9,Great movie
+The Mist,Horror,8,Good movie
+The Mist,Horror,7,Not so good 
